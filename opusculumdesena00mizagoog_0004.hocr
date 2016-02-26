@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculumdesena00mizagoog/opusculumdesena00mizagoog_0004.png"; bbox 0 0 2659 4359; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 126 3135 1177 3675">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 126 3120 1153 3581">
+     <span class='ocr_line' id='line_1_1' title="bbox 126 3135 977 3285; baseline -0.04 -23"><span class='ocrx_word' id='word_1_1' title='bbox 126 3240 130 3246; x_wconf 71' lang='lat'><em>.-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 194 3158 530 3285; x_wconf 67' lang='lat' dir='ltr'><em>ticanoarami(q</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 579 3135 582 3141; x_wconf 33' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_4' title='bbox 635 3167 747 3254; x_wconf 62' lang='lat'><em>?··‚·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 825 3255 826 3258; x_wconf 4' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 974 3233 977 3246; x_wconf 27' lang='lat'><em>2</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 167 3263 1109 3434; baseline -0.056 -34"><span class='ocrx_word' id='word_1_7' title='bbox 167 3369 169 3371; x_wconf 95' lang='lat'>-</span> <span class='ocrx_word' id='word_1_8' title='bbox 187 3263 1030 3434; x_wconf 45' lang='lat' dir='ltr'><em>stestuicumeimherediolum)waram-ia</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1107 3279 1109 3281; x_wconf 81' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 200 3402 1062 3581; baseline -0.046 -41"><span class='ocrx_word' id='word_1_10' title='bbox 200 3402 1030 3581; x_wconf 51' lang='lat' dir='ltr'><em>hiltpzlqexpeffantiffliffaturamanulis,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1060 3498 1062 3500; x_wconf 82' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 810 3540 1177 3675">
+     <span class='ocr_line' id='line_1_4' title="bbox 810 3540 1177 3675; baseline -0.035 -20"><span class='ocrx_word' id='word_1_12' title='bbox 810 3558 897 3675; x_wconf 60' lang='lat' dir='ltr'><em>Atj</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1042 3576 1044 3578; x_wconf 91' lang='lat'>·</span> <span class='ocrx_word' id='word_1_14' title='bbox 1173 3540 1177 3546; x_wconf 85' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1334 4359">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1334 4359">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1334 4359; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1334 4359; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
